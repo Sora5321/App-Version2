@@ -1,0 +1,30 @@
+[
+    {
+        "titulo": "ejemplos",
+        "estado": "En progreso"
+    },
+    {
+        "titulo": "tipos de etstring",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "tipos de variables",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "tipos de datos",
+        "estado": "terminada"
+    },
+    {
+        "titulo": "buenos",
+        "estado": "pendiente"
+    },
+    {
+        "titulo": "hola que hace ",
+        "estado": "procesado"
+    },
+    {
+        "titulo": "velocidades",
+        "estado": "pendiente"
+    }
+]
